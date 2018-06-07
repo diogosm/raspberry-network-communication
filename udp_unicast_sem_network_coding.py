@@ -15,7 +15,7 @@ import datetime
 import argparse
 import json
 
-import kodo
+#import kodo
 
 # type of message sent
 TYPE_FILE=1
