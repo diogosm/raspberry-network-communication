@@ -23,7 +23,7 @@ TYPE_STRING=2
 
 # How to run it
 # Server: python3 udp_unicast_sem_network_coding.py server
-# Client: python3 udp_unicast_sem_network_coding.py --file-path lena.jpg client
+# Client: python3 udp_unicast_sem_network_coding.py --file-path lena.jpg client --server-ip 10.206.9.221
 # @TODO need to change if host is not localhost
 
 def main():
